@@ -1,0 +1,57 @@
+
+.loading {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 2rem;
+    color: #777;
+  }
+  
+  
+  .show-details {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0; 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
+    border-radius: 10px; 
+  }
+  
+  
+  .show-details h2 {
+    font-size: 2.5rem; 
+    margin-bottom: 1rem;
+    color: #333;
+    text-align: center;
+  }
+  
+  
+  .show-info {
+    font-size: 1.2rem;
+    text-align: left; 
+  }
+  
+  
+  .show-info ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .show-info ul li {
+    margin-bottom: 0.5rem;
+    color: #555;
+  }
+  
+  
+  .show-info ul li strong {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  
+  .stylish-text {
+    font-size: 1.3rem;
+    color: #ff7f50; 
+    text-transform: uppercase; 
+    font-style: italic; 
+  }
+  
