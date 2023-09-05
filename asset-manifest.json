@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fletnix-frontend/static/css/main.65bf0f5c.css",
+    "main.js": "/fletnix-frontend/static/js/main.3d5e1bc0.js",
+    "static/js/787.4cf5370f.chunk.js": "/fletnix-frontend/static/js/787.4cf5370f.chunk.js",
+    "static/media/bg_video.mp4": "/fletnix-frontend/static/media/bg_video.ad7e8b71e617a7bbdc5c.mp4",
+    "static/media/FletNix-Movies-9-5-2023.png": "/fletnix-frontend/static/media/FletNix-Movies-9-5-2023.669545eef4976e206c61.png",
+    "static/media/Fletnix-9-2-2023.png": "/fletnix-frontend/static/media/Fletnix-9-2-2023.be3527af42ddd951dc6d.png",
+    "index.html": "/fletnix-frontend/index.html",
+    "main.65bf0f5c.css.map": "/fletnix-frontend/static/css/main.65bf0f5c.css.map",
+    "main.3d5e1bc0.js.map": "/fletnix-frontend/static/js/main.3d5e1bc0.js.map",
+    "787.4cf5370f.chunk.js.map": "/fletnix-frontend/static/js/787.4cf5370f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65bf0f5c.css",
+    "static/js/main.3d5e1bc0.js"
+  ]
+}
