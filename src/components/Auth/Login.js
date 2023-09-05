@@ -17,6 +17,7 @@ const Login = () => {
       const response = await api.post('/auth/login', { email, password });
       localStorage.setItem('token', response.data.token);
       localStorage.setItem('age', response.data.age);
+      console.log(response.data.age);
       setAuthenticated(true);
 
       

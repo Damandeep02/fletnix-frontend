@@ -1,69 +1,77 @@
-body {
-    margin: 0;
-    padding: 0;
-    background-color: #f5b7b1; 
-    font-family: Arial, sans-serif;
-  }
-  
-  .login-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-  }
-  
-  h2 {
-    color: #333;
-    margin-bottom: 20px;
-  }
-  
-  .form-container {
-    background-color: #EFE8D7; 
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 300px;
-  }
-  
-  input {
-    padding: 10px;
-    margin-bottom: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    font-size: 16px;
-    background-color: transparent;
-  }
-  
-  button {
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    padding: 10px;
-    font-size: 16px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-  }
-  
-  button:hover {
-    background-color: #0056b3;
-  }
-  
-  .register-link {
-    text-align: center;
-    margin-top: 10px;
-  }
-  
-  a {
-    color: #007bff;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: linear-gradient(174deg, rgba(0,0,0,1) 2%, rgba(153,0,0,1) 53%, rgba(255,71,71,0.8828781512605042) 87%);}
+
+h2 {
+  color: #eeb2b2;
+  font-size: 24px; 
+  margin-bottom: 20px;
+}
+
+.form-container {
+  background-color: #f3b1b1;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: #f9f9f9; 
+}
+
+button {
+  background-color: #b40606;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.register-link {
+  text-align: center;
+  margin-top: 10px;
+  color: #46d5ee;
+  font-size: large;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.Toastify__toast {
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.Toastify__toast--success {
+  background-color: #5cb85c;
+}
+
+.Toastify__toast--error {
+  background-color: #eeeeee;
+}
